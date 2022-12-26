@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="10.01">
+  <testsuite name="Zadanie nr. 2" errors="0" failures="0" skipped="0" timestamp="2022-12-26T15:14:00" time="7.293" tests="3">
+    <testcase classname="Zadanie nr. 2" name="Dodano div" time="0.019">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Width na mobile jest równy 94%" time="0.055">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Width na szerokości ponad 768px jest równy 640px" time="0.057">
+    </testcase>
+  </testsuite>
+</testsuites>

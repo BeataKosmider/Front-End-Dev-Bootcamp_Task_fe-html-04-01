@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+  div {
+    width: 94%;
+  }
+}
+@media screen and (min-width: 769px) {
+  div {
+    width: 640px;
+  }
+}
+div {
+  position: relative;
+  margin: auto;
+}
